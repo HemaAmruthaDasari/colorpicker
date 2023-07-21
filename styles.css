@@ -1,0 +1,11 @@
+div{
+    border:2px solid black;
+    text-align:center;
+    background-color: azure;
+}
+body{
+    border-style:solid;
+    padding:200px;
+    margin-top:150px;
+    margin-left:200px;
+}
